@@ -12,3 +12,7 @@ Discontinued 3M Aura models:
 
 -   [3M Aura 9210, discontinued "effective October 1, 2014."](https://www.3m.com/3M/en_US/p/d/v000057772/)
 -   [3M Aura 9211](https://www.3m.com/3M/en_US/p/d/v000585713/1/)
+
+<figure class="wide"><img src="media/white-house-2021-4-19-3m-aura.jpg">
+<figcaption>Individuals wearing 3M Auras while meeting in the Oval Office during the COVID-19 pandemic. Photo 2021-4-19, <a href="https://www.usa.gov/government-works">US government work</a> (public domain).</figcaption>
+</figure>
