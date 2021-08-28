@@ -21,6 +21,8 @@ Discontinued 3M Aura models (incomplete list):
 -   [3M Aura 9210, discontinued "effective October 1, 2014."](https://www.3m.com/3M/en_US/p/d/v000057772/)
 -   [3M Aura 9211](https://www.3m.com/3M/en_US/p/d/v000585713/1/)
 
+According to a trademark filing, the first use in commerce of "Aura" by 3M was in January of 2012, so that may be when the Aura line was first released (USPTO trademark serial \# 85240142).
+
 ## Counterfeits
 
 Due to widespread demand from the COVID-19 pandemic and popularity of the respirator series, the 3M Auras have been frequently counterfeit. On July 14th 2021, [3M issued a counterfeit alert, noting that millions of counterfeit 3M Auras had been seized](https://multimedia.3m.com/mws/media/1934748O/3m-counterfeit-communication-letter.pdf); in this case, the 3M Aura 1870+.
