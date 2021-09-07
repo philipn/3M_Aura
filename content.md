@@ -31,3 +31,7 @@ Due to widespread demand from the COVID-19 pandemic and popularity of the respir
 -   ["WSHA: Hundreds of thousands of counterfeit N95 masks purchased by Washington hospitals"](https://komonews.com/news/local/wsha-hundreds-of-thousands-of-counterfeit-n95-masks-purchased-by-washington-hospitals?fbclid=IwAR1iAu3gOzDR-CUfHX-n1ciZLLAawbSysq61zAR-t2nNeH8wnxArzCrJkdg) - 2021-2-7 news article.
 
 The counterfeit 3M Auras often look nearly indistinguishable from the legitimate 3M products but fail to provide the protection of the genuine product. Aaron Collins, an individual with a background in aerosol science, [performed a home quantitative fit test on a counterfeit 3M 1870+ and found it had a filtration efficiency of 94% on his test aerosol](https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/edit#gid=1976839763). In comparison, when he tested a (more likely) genuine 1870+ he found a filtration efficacy of 99.3%.
+
+## See also
+
+-   [List of respirators](/List_of_respirators)
