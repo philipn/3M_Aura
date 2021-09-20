@@ -1,6 +1,6 @@
 ![A 3M Aura 9210+ N95. The 3M Auras are packaged flat before use; picture is of a 3M Aura after being fit to a face. ](media/3m-aura-9210-plus-after-use.jpeg)
 
-The **3M Aura** is a line of disposable N95 respirators with a unique boat-style design produced by the 3M Company.  Outside of the United States, 3M Auras are sold as FFP2 or FFP3 respirators.
+The **3M Aura** is a line of disposable [N95 respirators](/List_of_respirators) with a unique boat-style design produced by the 3M Company.  Outside of the United States, 3M Auras are sold as FFP2 or FFP3 respirators.
 
 3M Aura may have higher fit test pass rates than typical disposable N95 respirators; this means an individual wearing it may be more likely to have a correct fit in the absence of a formal fit test.
 
