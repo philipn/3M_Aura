@@ -21,11 +21,11 @@ Discontinued 3M Aura models (incomplete list):
 -   [3M Aura 9210, discontinued "effective October 1, 2014."](https://www.3m.com/3M/en_US/p/d/v000057772/)
 -   [3M Aura 9211](https://www.3m.com/3M/en_US/p/d/v000585713/1/)
 
-According to a trademark filing, the first use in commerce of "Aura" by 3M was in January of 2012, so that may be when the Aura line was first released (USPTO trademark serial \# 85240142).
+According to a trademark filing, the first use in commerce of "Aura" by 3M was in January of 2012, so that may be when the Aura line was first released (USPTO trademark serial \# [85240142](https://trademarks.justia.com/852/40/aura-85240142.html)).
 
 ## Counterfeits
 
-Due to widespread demand from the COVID-19 pandemic and popularity of the respirator series, the 3M Auras have been frequently counterfeit. On July 14th 2021, [3M issued a counterfeit alert, noting that millions of counterfeit 3M Auras had been seized](https://multimedia.3m.com/mws/media/1934748O/3m-counterfeit-communication-letter.pdf); in this case, the 3M Aura 1870+.
+Due to widespread demand from the COVID-19 pandemic and the popularity of the respirator series, the 3M Auras have been frequently counterfeit. On July 14th 2021, [3M issued a counterfeit alert, noting that millions of counterfeit 3M Auras had been seized](https://multimedia.3m.com/mws/media/1934748O/3m-counterfeit-communication-letter.pdf); in this case, the 3M Aura 1870+.
 
 -   ["Millions of Counterfeit N95 Masks Were Bought in 5 States, U.S. Says"](https://www.nytimes.com/2021/02/10/us/n95-mask-fraud-investigation.html) - New York Times article, 2021-2-10. Article notes the fakes looked like good counterfeits.
 -   ["WSHA: Hundreds of thousands of counterfeit N95 masks purchased by Washington hospitals"](https://komonews.com/news/local/wsha-hundreds-of-thousands-of-counterfeit-n95-masks-purchased-by-washington-hospitals?fbclid=IwAR1iAu3gOzDR-CUfHX-n1ciZLLAawbSysq61zAR-t2nNeH8wnxArzCrJkdg) - 2021-2-7 news article.
