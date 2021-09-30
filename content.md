@@ -2,7 +2,7 @@
 
 The **3M Aura** is a line of disposable [N95 respirators](/List_of_respirators) with a unique boat-style design produced by the 3M Company. Outside of the United States, 3M Auras are sold as FFP2 or FFP3 respirators.
 
-3M Aura may have higher fit test pass rates than typical disposable N95 respirators; this means an individual wearing it may be more likely to have a correct fit in the absence of a formal fit test.
+3M Aura may have higher fit test pass rates than typical disposable N95 respirators; this means an individual wearing it may be more likely to have a correct fit in the absence of a [formal fit test](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.134AppA).
 
 In [a study in untrained individuals, the 3M Aura 1862+ had a fit test pass rate of 82.5%](https://openres.ersjournals.com/content/6/4/00581-2020), whereas the typical N95 cup-style respirators had pass rates of 73%, 67%, and 23% (and the KN95 had a pass rate of 0%). In [a small study of 60 anaesthetists](https://asapublicaccess.s3-ap-southeast-2.amazonaws.com/AustralianAnaesthetist/Feature_Fittesting.pdf), the 3M Aura 1870+ had a 5/5 (100%) pass rate, compared to a pass rate of 3/7 (43%) for the 3M 8210 (typical N95 cup style) and a pass rate of 1/9 (11%) for other typical N95 respirators.
 
