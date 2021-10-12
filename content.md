@@ -20,6 +20,7 @@ Discontinued 3M Aura models (incomplete list):
 
 -   [3M Aura 9210, discontinued "effective October 1, 2014."](https://www.3m.com/3M/en_US/p/d/v000057772/)
 -   [3M Aura 9211](https://www.3m.com/3M/en_US/p/d/v000585713/1/)
+-   [The 3M Aura 1870 was discontinued as of March 31, 2015. It was replaced by the 1870+](https://multimedia.3m.com/mws/media/1014218O/3m-respirator-1870-discontinuation-notice.pdf)
 
 According to a trademark filing, the first use in commerce of "Aura" by 3M was in January of 2012, so that may be when the Aura line was first released (USPTO trademark serial \# [85240142](https://trademarks.justia.com/852/40/aura-85240142.html)).
 
