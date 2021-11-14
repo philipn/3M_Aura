@@ -33,6 +33,12 @@ Due to widespread demand from the COVID-19 pandemic and the popularity of the re
 
 The counterfeit 3M Auras often look nearly indistinguishable from the legitimate 3M products but fail to provide the protection of the genuine product. Aaron Collins, an individual with a background in aerosol science, [performed a home quantitative fit test on a counterfeit 3M 1870+ and found it had a filtration efficiency of 94% on his test aerosol](https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/edit#gid=1976839763). In comparison, when he tested a (more likely) genuine 1870+ he found a filtration efficacy of 99.3%.
 
+## Modifications
+
+Modifications to the respirator aren't recommended and will void NIOSH or other approvals. That being said, some find it useful to modify the 3M Auras for different purposes.
+
+Reddit user electricpete [converted his 3M 9205+ into an earloop-style mask](https://imgur.com/a/d09U4ua) "by cutting the loops in the center and then fastening the top and bottom ones together on each side with a silicone cord lock." ([reddit comment](https://www.reddit.com/r/Masks4All/comments/pniwt4/any_earloop_style_masks_with_builtin_nose_foam/hdlx9ve/?utm_source=reddit&utm_medium=web2x&context=3))
+
 ## See also
 
 -   [List of respirators](/List_of_respirators)
