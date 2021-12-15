@@ -35,6 +35,8 @@ The counterfeit 3M Auras often look nearly indistinguishable from the legitimate
 
 ## Modifications
 
+![A 3M 9210+ modified to have earloops. The head straps were cut in the middle and pushed through mask cord locks.](media/3m-aura-9210-with-earloops-modified.jpeg)
+
 Modifications to the respirator aren't recommended and will void NIOSH or other approvals. That being said, some find it useful to modify the 3M Auras for different purposes.
 
 Reddit user electricpete [converted his 3M 9205+ into an earloop-style mask](https://imgur.com/a/d09U4ua) "by cutting the loops in the center and then fastening the top and bottom ones together on each side with a silicone cord lock." ([reddit comment](https://www.reddit.com/r/Masks4All/comments/pniwt4/any_earloop_style_masks_with_builtin_nose_foam/hdlx9ve/?utm_source=reddit&utm_medium=web2x&context=3))
